@@ -1,0 +1,11 @@
+*.suo
+*.json
+/.vs
+/3/obj/
+/.vs
+/1/obj/
+/2/obj/
+/.vs/
+AOC2025.sln
+/1/bin/
+/3/bin/
